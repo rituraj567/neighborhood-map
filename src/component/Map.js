@@ -1,6 +1,6 @@
 /* global google */
 import React, { Component } from 'react';
-import ErrorBoundary from "./ErrorBoundary";
+import ErrorBoundary from './ErrorBoundary';
 import {
   withScriptjs,
   withGoogleMap,
