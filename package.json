@@ -2,13 +2,14 @@
   "name": "project7",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://rituraj567.github.io/neighborhood-map/",
+  "homepage": "https://rituraj567.github.io/neighborhood-map/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
+    "react-async-script-loader": "^0.3.0",
     "react-dom": "^16.5.2",
     "react-google-maps": "^9.4.5",
-    "react-scripts": "2.0.5"
+    "react-scripts": "^2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
